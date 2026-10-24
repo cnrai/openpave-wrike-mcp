@@ -1,0 +1,29 @@
+# OpenPAVE Wrike MCP Skill
+# Doctrine skill for the remote Wrike MCP server (mcp.wrike.com/v2)
+
+name: wrike-mcp
+version: 1.0.0
+description: Operate Wrike through the remote MCP server (mcp.wrike.com/v2, bridged as mcp_wrike_* tools) - verified doctrines and workarounds for tasks, folders, and attachments
+
+author:
+  name: cnrai
+  url: https://github.com/cnrai
+
+license: MIT
+homepage: https://github.com/cnrai/openpave-wrike-mcp
+repository: cnrai/openpave-wrike-mcp
+
+entrypoint: SKILL.md
+
+# Metadata
+keywords:
+  - wrike
+  - mcp
+  - tasks
+  - project-management
+  - work-management
+  - collaboration
+
+category: productivity
+icon: "\U0001F4CB"
+

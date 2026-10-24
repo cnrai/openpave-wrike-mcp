@@ -1,0 +1,4 @@
+.pave/
+node_modules/
+*.log
+.DS_Store
