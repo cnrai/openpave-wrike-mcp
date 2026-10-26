@@ -2,7 +2,7 @@
 # Doctrine skill for the remote Wrike MCP server (mcp.wrike.com/v2)
 
 name: wrike-mcp
-version: 1.0.0
+version: 1.1.0
 description: Operate Wrike through the remote MCP server (mcp.wrike.com/v2, bridged as mcp_wrike_* tools) - verified doctrines and workarounds for tasks, folders, and attachments
 
 author:
